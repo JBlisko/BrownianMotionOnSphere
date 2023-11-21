@@ -1,2 +1,2 @@
-# BrownianMotionOnSphere
-Brownian motion of quadrupolar particles on spherical surface.
+# Brownian Motion on Sphere
+Brownian motion of quadrupolar particles on spherical surface. We consider a capillary force for quadrupolar particles, excluded volume, hydrodynamic interactions, and a random walk governed by the Weiner process. The particles are confined to the surface of the spherical particle by the use of a restoring spring force, which applies a force normal to the surface proportional to the displacement of the particle from the surface of the droplet.
